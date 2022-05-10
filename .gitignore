@@ -1,0 +1,7 @@
+./Client/bin
+./Server/bin
+./Client/obj
+./Server/obj
+
+./.vs
+./.git
